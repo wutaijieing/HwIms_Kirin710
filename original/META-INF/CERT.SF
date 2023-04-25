@@ -1,0 +1,59 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA-256-Digest-Manifest: QsMjCCxZrA+INEvFA2/fn23lgL8u8W3yKPqF1nPXY7E=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: wR/ka/rRSHDE+Um+bNyZEz7bV4M2vvodU8Y9QmAjoLE=
+
+Name: classes.dex
+SHA-256-Digest: KEsuYjFdk7YUGXcg6n/VgyOQaa95uE+H9KBnHD8Apok=
+
+Name: lib/arm64-v8a/libHME-Video.so
+SHA-256-Digest: A+jAT/6xGAVZeKZ8Mn9EZyQ1ai7MMpRjm9QgaSBRPtU=
+
+Name: lib/arm64-v8a/libVT90.so
+SHA-256-Digest: N7fONpkUObNlrwjN6TNbmsjOf8zvCVKpLYUlftnUPkU=
+
+Name: lib/arm64-v8a/libcryptotsc.so
+SHA-256-Digest: RYMdH9jlNsnNnq/+9wC9F7158I0CWPe7cuURjeGkUO0=
+
+Name: lib/arm64-v8a/libhw_media.so
+SHA-256-Digest: 4RIA9G6SD4P6r1+cpOhpPCOueYeM5iLfNJfjCA4oLPA=
+
+Name: lib/arm64-v8a/libhw_sys.so
+SHA-256-Digest: fe2VZH3FxKqXIdUkkCEcCN0j+91j3ugRAr7TVSvXHUk=
+
+Name: lib/arm64-v8a/liblogin.so
+SHA-256-Digest: wyTl/jrvvJWowFgmE3KQV2qgewt/Ko43Ys2EyuYqXiI=
+
+Name: lib/arm64-v8a/libmvd_hme_vt.so
+SHA-256-Digest: wyx54UsrTyNYVthGgGPu6+rb+3XxpVGOcm6JuXYFMbk=
+
+Name: lib/arm64-v8a/libsci.so
+SHA-256-Digest: 4I10aYxvFXpFsYVTO34AUHz2mV+a25OVWaTKcVqExTg=
+
+Name: lib/arm64-v8a/libsci_ssconf.so
+SHA-256-Digest: tM4gVL4qNBlv9N2xTrEFMOYKqSq/qHiWoovFfgpgOB4=
+
+Name: lib/arm64-v8a/libsci_tls_default.so
+SHA-256-Digest: Q6EjWjryWehC6YhM7gXlJdqWh8mWJ+TSIV7yrEs8x44=
+
+Name: lib/arm64-v8a/libssltsc.so
+SHA-256-Digest: aJi5Pt+Gpmcp8h8PYmb4ZqzW5FX6vVWcA144jxG1nb4=
+
+Name: lib/arm64-v8a/libtls_default.so
+SHA-256-Digest: 2B5iiJZOuT8dugvzF8s60bJ6MvmJQlFh8pkkMeB2mWE=
+
+Name: lib/arm64-v8a/libut.so
+SHA-256-Digest: GQTv3tJxe6DLU2jfNQJrkniDQoSEx6sIV+V0uAhEFHE=
+
+Name: lib/arm64-v8a/libvsc.so
+SHA-256-Digest: 41Khf3xATrAlFScW+pVoxEMJ9ok4uJ3I0RBzXVmTX0Y=
+
+Name: res/xml/hw_ims_config.xml
+SHA-256-Digest: 7DKlMGfpo0sRBvn4650DQ+DfqmS/XP3a7Ernuznb6R0=
+
+Name: resources.arsc
+SHA-256-Digest: lMfqv3syQZlgrtzVu/wZnsTJFS87W0A/I4a8iqcCSUU=
+

@@ -1,0 +1,56 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: +8/1+lDaF4H6Je5wyjhTxtT1JGkpYKOaQpEB7U+XG2w=
+
+Name: classes.dex
+SHA-256-Digest: Sx/AfQJFI7Ie9XOMGda31WzeStfe6LQqOILO/xo3ERQ=
+
+Name: lib/arm64-v8a/libHME-Video.so
+SHA-256-Digest: H+MpaPB5DjEDNtPTUGYmOH9HxM/2fgHpVkXcd44uf1U=
+
+Name: lib/arm64-v8a/libVT90.so
+SHA-256-Digest: WolGPu7MWLfYRnWEm2trnOs9GmNqKolqeLpgDywtTig=
+
+Name: lib/arm64-v8a/libcryptotsc.so
+SHA-256-Digest: 8UYgRjZFs0F/0Gz+Ny/SNuZhH2IK/zXK7t+lx13DavQ=
+
+Name: lib/arm64-v8a/libhw_media.so
+SHA-256-Digest: jZcUay3z44xiEht3NHCYGDMnS6p1RHpOQn4aXBEcbGA=
+
+Name: lib/arm64-v8a/libhw_sys.so
+SHA-256-Digest: NCRfdN9MrWCvDKaeoxf7uCjHN7tTRx3gHWMzSF26g7E=
+
+Name: lib/arm64-v8a/liblogin.so
+SHA-256-Digest: zwikt+hscHCEUeY/VVRo05/YhTm/Kh1rHW1nZPLrJ4E=
+
+Name: lib/arm64-v8a/libmvd_hme_vt.so
+SHA-256-Digest: PULKoOPj/YfkS28sK17kkm/xNG3qm2LsSA3xo/JqVfs=
+
+Name: lib/arm64-v8a/libsci.so
+SHA-256-Digest: 2UHEsWiUYh3UFVxDT5BeDXEMdf5jo2GIywKF34Tbzkw=
+
+Name: lib/arm64-v8a/libsci_ssconf.so
+SHA-256-Digest: TSvSSUKmsqgoNLrgL+UkmOOKJUZRNk+iOG5gFymIjAM=
+
+Name: lib/arm64-v8a/libsci_tls_default.so
+SHA-256-Digest: jEkzQe7pW74PhtPM3JqcamFyAG8mr5LFOnFRfSBNEUQ=
+
+Name: lib/arm64-v8a/libssltsc.so
+SHA-256-Digest: 7pzPLWByWVtRzGj0Kg1uLEP2PjsLfTHs7dnLaNn/Sh4=
+
+Name: lib/arm64-v8a/libtls_default.so
+SHA-256-Digest: 6Q+x1nNPrY2nqZDqnmaC1qvl0skTSQQ0QBWz4qpNiR8=
+
+Name: lib/arm64-v8a/libut.so
+SHA-256-Digest: X0T96t9Kn+6i6A/ALbmDJSbsguzq4vi5KNORzQvWAts=
+
+Name: lib/arm64-v8a/libvsc.so
+SHA-256-Digest: BdjZ8CcYeoN52PI4NYgvMRnewAYyZjNT1W/9+EzVJYg=
+
+Name: res/xml/hw_ims_config.xml
+SHA-256-Digest: e0WODnu4IJ3i7wbdEkpwQ3HpA825nUkjVo34kBqJ7qE=
+
+Name: resources.arsc
+SHA-256-Digest: k8dOAmK02P5p8u285GjQKKza2zDy0H3s+Uo9F/88AbQ=
+
